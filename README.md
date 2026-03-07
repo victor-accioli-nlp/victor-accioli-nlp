@@ -1,16 +1,22 @@
-## Hi there 👋
+# Victor Accioli
 
-<!--
-**victor-accioli-nlp/victor-accioli-nlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building NLP projects in public 🚀
 
-Here are some ideas to get you started:
+## Focus areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Natural Language Processing (NLP)  
+• AI response evaluation  
+• AI safety awareness  
+• Model alignment analysis  
+
+## Projects
+
+🔹 AI Response Evaluation Portfolio  
+Examples of structured evaluation of AI-generated responses.
+
+🔹 NLP Sentiment Analysis (PT-BR)  
+Simple sentiment analysis project in Portuguese.
+
+## Learning goals
+
+Studying AI evaluation methods, reasoning analysis and NLP systems.
