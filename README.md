@@ -1,22 +1,18 @@
 # Victor Accioli
 
-Building NLP projects in public 🚀
+Building NLP and AI evaluation projects in public 🚀
 
-## Focus areas
+## Focus Areas
+- Natural Language Processing (NLP)
+- AI response evaluation
+- AI safety awareness
+- Model alignment analysis
 
-• Natural Language Processing (NLP)  
-• AI response evaluation  
-• AI safety awareness  
-• Model alignment analysis  
+## Current Projects
+- AI Response Evaluation Portfolio
+- NLP Sentiment Analysis (PT-BR)
 
-## Projects
-
-🔹 AI Response Evaluation Portfolio  
-Examples of structured evaluation of AI-generated responses.
-
-🔹 NLP Sentiment Analysis (PT-BR)  
-Simple sentiment analysis project in Portuguese.
-
-## Learning goals
-
-Studying AI evaluation methods, reasoning analysis and NLP systems.
+## Learning Goals
+- Improve understanding of NLP methods
+- Study evaluation of large language models
+- Build small experimental AI projects
