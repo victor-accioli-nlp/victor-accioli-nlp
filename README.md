@@ -18,3 +18,14 @@ Building NLP and AI evaluation projects in public 🚀
 - Study evaluation of AI-generated responses
 - Build small experimental NLP projects
 - Document learning process in public
+
+## Featured Projects
+
+🔹 AI Response Evaluation  
+Analysis of AI-generated responses and reasoning quality.
+
+🔹 LLM Failure Cases  
+Collection of examples where AI responses fail and analysis of why.
+
+🔹 NLP Sentiment Analysis (PT-BR)  
+Simple sentiment analysis project in Portuguese using Python.
