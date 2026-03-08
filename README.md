@@ -16,3 +16,10 @@ Building NLP and AI evaluation projects in public 🚀
 - Improve understanding of NLP methods
 - Study evaluation of large language models
 - Build small experimental AI projects
+
+## Learning Goals
+
+- Deepen understanding of Natural Language Processing
+- Study evaluation of AI-generated responses
+- Build small experimental NLP projects
+- Document learning process in public
